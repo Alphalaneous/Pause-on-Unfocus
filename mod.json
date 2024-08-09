@@ -1,0 +1,16 @@
+{
+	"geode": "3.4.0",
+	"gd": {
+		"win": "2.206"
+	},
+	"id": "alphalaneous.pause_on_unfocus",
+	"name": "Pause on Unfocus",
+	"version": "v1.0.0",
+	"developer": "Alphalaneous",
+	"description": "Pauses the game on unfocus",
+	"links": {
+        "homepage": "https://twitter.com/alphalaneous",
+        "source": "https://github.com/Alphalaneous/PauseOnUnfocus",
+        "community": "https://discord.gg/Txn2CA5dHF"
+    },
+}
